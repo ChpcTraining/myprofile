@@ -7,7 +7,7 @@ st.title("Researcher Profile Page")
 # Collect basic information
 name = "Dr. Jane Doe"
 field = "Astrophysics"
-institution = "University of Science"
+institution = "UCT"
 
 # Display basic profile information
 st.header("Researcher Overview")
